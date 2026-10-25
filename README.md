@@ -10,7 +10,7 @@ Data sources
 - Planetary Habitability Laboratory, Habitable Worlds Catalog: https://phl.upr.edu/hwc/data (file: HWC_exoplanet.csv)
 
 What I did
-- Loaded both datasets, renamed and standardised selected columns, and handled missing values in the planetary measurements
+- Loaded both datasets, renamed and standardized selected columns, and handled missing values in the planetary measurements.
 - Compared planet mass and radius on logarithmic scatter plots for both catalogs
 - Examined the distribution of exoplanet distances and surface temperatures
 - Generated descriptive statistics and a correlation heatmap (mass, radius, distance, surface temperature, stellar flux)
