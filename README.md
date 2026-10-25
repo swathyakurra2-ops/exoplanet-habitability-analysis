@@ -70,7 +70,8 @@ How to Run
 
 Example commands:
 
-git clone https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html?utm_source=chatgpt.com,https://phl.upr.edu/hwc/data?utm_source=chatgpt.com
+git clone https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html?utm_source=chatgpt.com
+https://phl.upr.edu/hwc/data?utm_source=chatgpt.com
 cd PSCompPars.csv HWC_exoplanet.csv
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
