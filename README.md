@@ -30,6 +30,7 @@ Dataset
 The project uses an exoplanet dataset containing planetary measurements and related characteristics.
 
 Dataset source: https://exoplanetarchive.ipac.caltech.edu/index.html
+https://phl.upr.edu/hwc/data?utm_source=chatgpt.com
 
 The dataset is used for exploratory analysis and visualization.
 
@@ -69,8 +70,8 @@ How to Run
 
 Example commands:
 
-git clone https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html?utm_source=chatgpt.com
-cd PSCompPars.csv
+git clone https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html?utm_source=chatgpt.com,https://phl.upr.edu/hwc/data?utm_source=chatgpt.com
+cd PSCompPars.csv HWC_exoplanet.csv
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 
