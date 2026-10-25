@@ -69,8 +69,8 @@ How to Run
 
 Example commands:
 
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html?utm_source=chatgpt.com
+cd PSCompPars.csv
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 
