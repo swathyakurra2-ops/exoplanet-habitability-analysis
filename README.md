@@ -29,7 +29,7 @@ Dataset
 
 The project uses an exoplanet dataset containing planetary measurements and related characteristics.
 
-Dataset source: [Add the original dataset source and citation here.]
+Dataset source: https://exoplanetarchive.ipac.caltech.edu/index.html
 
 The dataset is used for exploratory analysis and visualization.
 
